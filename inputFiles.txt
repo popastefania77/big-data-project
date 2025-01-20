@@ -25,4 +25,30 @@ https://www.kaggle.com/datasets/dmitrybabko/speech-emotion-recognition-en/code?d
 https://www.kaggle.com/code/deepakdeepu8978/covid-19-analysis-eda-forecasting/notebook
 
 
+
+House Pricing Prediction
+https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
+
+Loan Eligibility Prediction
+https://www.kaggle.com/datasets/vikasukani/loan-eligible-dataset?select=loan-train.csv
+
+Churn Prediction
+https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction/input
+
+Stock Prices Predictor
+https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset?select=symbols_valid_meta.csv
+
+Rented Bike Demand Forecasting
+https://www.kaggle.com/competitions/bike-sharing-demand/data
+
+Diagnosing Plant Diseases From Leaf Images
+https://www.kaggle.com/code/tarunpaparaju/plant-pathology-2020-eda-models/input
+
+License Number Plate Recognition System
+https://www.kaggle.com/code/mohamedbhy/automatic-number-plate-recognition/input
+
+Hand Gesture Recognition Model
+https://www.kaggle.com/datasets/gti-upm/leapgestrecog/data
+
+
 Thank you for your understanding!
