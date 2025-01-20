@@ -1,0 +1,28 @@
+Due to GitHub's file size limitations and the fact that the total size of the input files for these projects is approximately 5GB, I have provided links below to the sources for the input files, which I have stored locally:
+
+01_Human_Activity_Recognition:
+https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather?select=energy_dataset.csv
+
+02_Coupon_Purchase_Prediction:
+https://www.kaggle.com/code/raphael2711/coupon-redemption-classification-model/notebook
+
+03_Card_Fraud_Detection:
+https://www.kaggle.com/code/marcinrutecki/best-techniques-and-metrics-for-imbalanced-dataset
+
+04_Movie_Recommendation
+https://www.kaggle.com/code/ibtesama/getting-started-with-a-movie-recommendation-system/notebook
+
+05_Customer_Segmentation
+https://www.kaggle.com/code/vetrirah/top-5-winning-solution-customer-segmentation
+
+06_Speech_Recognition
+https://www.kaggle.com/code/davids1992/speech-representation-and-data-exploration
+
+07_Speech_Emotion_Recognition
+https://www.kaggle.com/datasets/dmitrybabko/speech-emotion-recognition-en/code?datasetId=1118008&sortBy=voteCount
+
+08_COVID-19_Prediction
+https://www.kaggle.com/code/deepakdeepu8978/covid-19-analysis-eda-forecasting/notebook
+
+
+Thank you for your understanding!
